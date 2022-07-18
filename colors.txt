@@ -35,7 +35,7 @@ https://draculatheme.com
 [LGREEN_G:255]
 [LGREEN_B:148]
 [LCYAN_R:164]
-[LCYAN_G:255]
+[LCYAN_G:205]
 [LCYAN_B:255]
 [LRED_R:255]
 [LRED_G:110]
